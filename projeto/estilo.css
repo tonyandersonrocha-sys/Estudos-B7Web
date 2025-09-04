@@ -1,0 +1,18 @@
+* {
+    box-sizing:content-box ;
+}
+
+body {
+    margin:0px;
+}
+.link{
+    color:green;
+    font-size: 30px;
+
+}
+.link:hover{
+    color: red;
+}
+.link:visited{
+    color: pink;
+}
